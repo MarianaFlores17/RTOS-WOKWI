@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = "../src/hello-world/race-condition/build/race-condition.bin"
-elf = "../src/hello-world/race-condition/build/race-condition.elf"
+firmware = "../src/deadlock/build/deadlocker.bin"
+elf = "../src/deadlock/build/deadlocker.elf"
